@@ -1,3 +1,33 @@
+
+Taiga Hashimoto から全員に: 07:41 PM
+https://gitforwindows.org/
+git --version
+mako otomo から全員に: 07:48 PM
+ダウンロードが終わりません(-_-;)
+Taiga Hashimoto から全員に: 07:48 PM
+https://github.co.jp/
+Taiga Hashimoto から全員に: 08:03 PM
+git --version
+
+https://github.co.jp/
+
+Taiga Hashimoto から全員に: 08:16 PM
+git config --global user.name ""
+git config --global user.email ""
+git config --list
+git config --global color.ui auto
+git config --global core.quotepath off
+git init
+Taiga Hashimoto から全員に: 08:32 PM
+git status
+git add test01.txt
+git commit -m "<コメント>"
+git log
+Taiga Hashimoto から全員に: 08:45 PM
+git push -u origin master
+Taiga Hashimoto から全員に: 08:57 PM
+git pull origin master
+
 test01
 
 
@@ -7,3 +37,20 @@ git commit -m "更新したよー"
 
 
 2回目のコミットするよ
+
+
+git config --global user.name "kumanami"
+git config --global user.email "kumanami_02p@outlook.jp"
+
+
+
+
+ローカルで更新したものをAddしてCommitしてPushする
+
+
+
+git pull origin master
+
+
+
+

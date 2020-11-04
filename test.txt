@@ -1,1 +1,9 @@
 test01
+
+
+git add test.txt
+
+git commit -m "更新したよー"
+
+
+2回目のコミットするよ
